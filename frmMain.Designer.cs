@@ -333,7 +333,7 @@
             this.Controls.Add(this.treeView1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmMain";
-            this.Text = "MZC Package Builder";
+            this.Text = "MZC Package Builder 20210105";
             this.Load += new System.EventHandler(this.frmMain_Load);
             this.tb.ResumeLayout(false);
             this.tb.PerformLayout();

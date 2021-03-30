@@ -11,6 +11,7 @@ using System.IO;
 
 namespace PkgBuilder
 {
+    [Description("main form")]
     public partial class frmMain : Form
     {
         private TreeNode nodeOver = null;
